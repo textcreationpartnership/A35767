@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Description of the coronation of His Sacred Majesty K. James II. and his illustrious consort Queen Mary celebrated on the 23th day of April, 1685 : with a brief account of the famous fire-works, which were upon the Thames, April the 24th.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35767</idno>
+            <idno type="STC">Wing D1156</idno>
+            <idno type="STC">ESTC R20208</idno>
+            <idno type="EEBO-CITATION">12676775</idno>
+            <idno type="OCLC">ocm 12676775</idno>
+            <idno type="VID">65579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Description of the coronation of His Sacred Majesty K. James II. and his illustrious consort Queen Mary celebrated on the 23th day of April, 1685 : with a brief account of the famous fire-works, which were upon the Thames, April the 24th.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathan. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Coronation.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:65579:1" rendition="simple:additions"/>
+            <head>The Deſcription of the CORONATION Of His Sacred MAJESTY K. JAMES II. And His Moſt ILLUSTRIOUS CONSORT Queen MARY.</head>
+            <head type="sub">Celebrated on the 23<hi>th</hi> Day of <hi>April,</hi> 1685.</head>
+            <head type="sub">With a Brief Account of the Famous FIRE-WORKS, Which were upon the <hi>Thames, April</hi> the 24<hi>th.</hi>
+            </head>
+            <head type="sub">A POEM.</head>
+            <lg>
+               <l>MY Raviſh'd <hi>Muſe</hi> in ſuch bright Mazes dance,</l>
+               <l>So Rapture-ſtruck, and all diſſolv'd in Trance,</l>
+               <l>That I her <hi>Penſel</hi> but in vain provoke,</l>
+               <l>To ſhadow out the <hi>Viſionary Stroak;</hi>
+               </l>
+               <l>Since She, like <hi>Angels,</hi> that above the <hi>Blest,</hi>
+               </l>
+               <l>Feels <hi>Extaſies</hi> too high to be expreſt.</l>
+               <pb n="2" facs="tcp:65579:2"/>
+               <l> Nor blame the <hi>Muſe</hi> that would this <hi>Subject</hi> ſhun!</l>
+               <l>
+                  <hi>Poets</hi> &amp; <hi>Limners</hi> ſhould not meddle with <hi>Perfection.</hi>
+               </l>
+               <l>All <hi>common ſtroaks</hi> their ſtinted Art may draw,</l>
+               <l>Whilſt a Bright Viſion keeps the Hand in aw.</l>
+               <l>And if th'Original they don't Tranſcend,</l>
+               <l>They only Libel, what they would commend.</l>
+               <l>And who can add one little common Ray</l>
+               <l>To the <hi>gay Splendor</hi> of this <hi>Happy Day?</hi>
+               </l>
+               <l>A <hi>Day</hi> that no <hi>Hyperbole</hi> can Grace;</l>
+               <l>The only Paint that Beautifies a <hi>POEMS</hi> Face.</l>
+               <l>
+                  <hi>Hail Happy Day!</hi> A Day ſo long Renown'd</l>
+               <l>For Holy <hi>GEORGE,</hi> and ſeveral <hi>Monarchs</hi> Crown'd!</l>
+               <l>Tho' now thy former <hi>Glories</hi> diſappear,</l>
+               <l>As twinkling <hi>Stars,</hi> when <hi>Day</hi>'s bright <hi>Gods</hi> draw near;</l>
+               <l>Yet greater <hi>Honours</hi> in their room are given,</l>
+               <l>From <hi>Earth</hi>'s <hi>ray Calander,</hi> thou art tranſcrib'd to that of</l>
+               <l>
+                  <hi>Heav'n.</hi>
+               </l>
+               <l>Long haſt thou worn <hi>red Characters</hi> below,</l>
+               <l>But now the <hi>Gods</hi> will keep thee Holy too.</l>
+            </lg>
+            <lg>
+               <l>Tho' the <hi>Morn</hi> was ſpread with <hi>rebel ſhow'rs of rain</hi>
+               </l>
+               <l>Yet <hi>Jove</hi>'s kind hand ſoon forc'd them back again:</l>
+               <l>And now the <hi>Sun</hi> which long did <hi>Mourning</hi> wear,</l>
+               <l>Does in his Nobleſt Gayeſt <hi>Robes</hi> appear.</l>
+               <l>Whilſt on <hi>Heav'ns</hi> brow no <hi>Cloudy frowns</hi> were ſeen,</l>
+               <l>But as the <hi>Firſt-day,</hi> Pleaſant and Serene.</l>
+               <l>The gazing <hi>Gods</hi> throw thoſe dark <hi>Screens</hi> away,</l>
+               <l>That they this <hi>Sight</hi> the Clearer might Survey.</l>
+               <l>But if the <hi>Sun</hi> had layn a bed 'till now,</l>
+               <l>Without his aid we'd ſeen the Glorious Show.</l>
+               <l>The Souls of <hi>Kings</hi> and <hi>Heroes</hi> Bleſt above,</l>
+               <l>With <hi>Choirs</hi> of ſhining Spirits hither move;</l>
+               <l>Mantled in <hi>Rays of Light</hi> ne'r ſeen 'till now,</l>
+               <l>On wings of <hi>Joy,</hi> they hover to and fro,</l>
+               <pb n="3" facs="tcp:65579:2" rendition="simple:additions"/>
+               <l> Follow'd by <hi>Chariots</hi> ſo <hi>Divinely bright;</hi>
+               </l>
+               <l>To which the <hi>Sun</hi> but Darkneſs is, and Night,</l>
+               <l>Or had this fail'd, we might the Proſpect take</l>
+               <l>From the great <hi>Splendor</hi> which the <hi>Court</hi> did make.</l>
+               <l>As when we would the Richeſt <hi>Jewels</hi> try,</l>
+               <l>We need but their own Light to know them by.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hark!</hi> what ſoft <hi>Aires</hi> and <hi>Raptures</hi> fill the <hi>Skies,</hi>
+               </l>
+               <l>Perform'd by Infinite <hi>Choires of Deities?</hi>
+               </l>
+               <l>Whilſt Mortals too, their rural <hi>Muſick</hi> mix,</l>
+               <l>And with their <hi>Concord</hi> the Charm'd <hi>Planets</hi> fix.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Guardian-Angels</hi> quit their waſted Care,</l>
+               <l>And ſlie in Troops to Guild the <hi>London</hi> Air.</l>
+               <l>Where <hi>Aeolus</hi> too in gentle Breezes haſt;</l>
+               <l>Loaded with all the <hi>Odours</hi> of the <hi>Eaſt,</hi>
+               </l>
+               <l>The <hi>Eſſence</hi> of each <hi>Fragrant Flower</hi> He brings,</l>
+               <l>And hovers o'er us with His <hi>Balmy Wings.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Gods</hi> owe much to <hi>Bounteous Nature</hi> too,</l>
+               <l>From whoſe Rich Boſom ſeveral <hi>Treaſures</hi> flow.</l>
+               <l>For had She Awkward been, They had been ſet</l>
+               <l>To the Expence of greater Wonders yet.</l>
+            </lg>
+            <lg>
+               <l>But hold! where does my forward Penſel run</l>
+               <l>To end the Day, before 'tis ſcarce begun?</l>
+               <l>Early I roſe this Triumph to attend,</l>
+               <l>And ſaw the <hi>Royal Pair</hi> the Boat aſcend.</l>
+               <l>Whoſe <hi>Sacred Preſence</hi> ſuch <hi>Devotion</hi> ſtrike,</l>
+               <l>
+                  <hi>Poets</hi> themſelves want Skill to feign the like.</l>
+               <lg>
+                  <l>By ſlow degrees on Silver <hi>Thames</hi> they road,</l>
+                  <l>She as a <hi>Goddeſs,</hi> He ſo like a <hi>God,</hi>
+                  </l>
+                  <l>That I with <hi>Moſes</hi> wiſht an <hi>Interpoſing Cloud.</hi>
+                  </l>
+               </lg>
+               <pb n="4" facs="tcp:65579:3"/>
+               <l> Objects ſo Bright ſhould put on a Diſguiſe,</l>
+               <l>Leaſt the Adorers faint beneath the Rays.</l>
+               <l>In the ſame Sphere two mighty <hi>Suns</hi> behold!</l>
+               <l>Each of which does contain a <hi>Heav'nly</hi> World.</l>
+               <l>And did the <hi>Perſians</hi> ſee this <hi>Royal Pair,</hi>
+               </l>
+               <l>They'ld ſlight their <hi>God,</hi> and pay their <hi>Homage</hi> here.</l>
+               <l>He that has try'd to fix his daring Eyes</l>
+               <l>On that vaſt <hi>Light</hi> which Guilds the <hi>Morning Skies,</hi>
+               </l>
+               <l>Will find it yet more daz'ling to Survey</l>
+               <l>This <hi>Pair</hi> of <hi>Suns,</hi> this <hi>double Deity.</hi>
+               </l>
+               <l>The reſt o'th' <hi>Court</hi> I with more eaſe could view,</l>
+               <l>Yet they made more than <hi>Humane Figures</hi> too.</l>
+               <l>With <hi>Radiant Jewels</hi> being cover'd all o'er,</l>
+               <l>Half the <hi>Worlds Wealth,</hi> with its <hi>Pride,</hi> they bore.</l>
+               <l>
+                  <hi>Scarlet</hi> beneath the <hi>Maſſy-Lace</hi> was hid</l>
+               <l>With <hi>Imag'ry,</hi> o'er Splended <hi>Tiſſue</hi> ſpread.</l>
+               <l>Here the <hi>Fair Sexes</hi> Art and Patience ſee,</l>
+               <l>Emblem'd in ev'ry <hi>Rich Embroiderie!</hi>
+               </l>
+               <l>Eight hideous Weeks, which moſt ſhould Work, they ſtrove,</l>
+               <l>Neglecting all the while their <hi>Health</hi> and <hi>Love.</hi>
+               </l>
+               <l>And the <hi>green Girls</hi> preparing for the Day,</l>
+               <l>Made themſelves Pale, to make their <hi>Lovers</hi> gay.</l>
+            </lg>
+            <lg>
+               <l>On THAMES ſee numerous ſhining Veſſels move,</l>
+               <l>Which dance like ſome tranſported <hi>Orphean</hi> Grove.</l>
+               <l>And like the <hi>Spheres</hi> their Artful meaſures take,</l>
+               <l>From the ſoft Muſick their own motions make.</l>
+               <l>But when all did in one cloſe Body meet,</l>
+               <l>They look'd like ſome new-built <hi>Eliſian</hi>-ſtreet:</l>
+               <lg>
+                  <l>Or as if the higheſt Heav'n came down</l>
+                  <l>Fraughted Gems for his dear JAMES's Crown,</l>
+                  <l>An earneſt of His brighter laſt Eternal one.</l>
+               </lg>
+               <l>Bleſt <hi>Thames!</hi> hadſt thou a Tongue thy bliſs to own,</l>
+               <l>My <hi>Muſe</hi> had not then made her weakneſs known,</l>
+               <l>But ſince imperfect ſigns thy thoughts declare,</l>
+               <l>I dare intrude as thy Interpreter.</l>
+               <pb n="5" facs="tcp:65579:3" rendition="simple:additions"/>
+               <l> 
+                  <hi>Hail Sacred Princes! thrice ſhe ſeems to ſay,</hi>
+               </l>
+               <l>
+                  <hi>Whom Instinct makes ev'n ſenſeleſs nhings obey;</hi>
+               </l>
+               <l>
+                  <hi>Your Royal <hi>Barge</hi> on my ſoft Boſom made,</hi>
+               </l>
+               <l>
+                  <hi>The happy'd wound that Water ever had.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder whoſe weight may I for ever live,</hi>
+               </l>
+               <l>
+                  <hi>But, Oh, that wiſh, You cannot like, forgive!</hi>
+               </l>
+               <l>
+                  <hi>Long may You wear that Antient Potent Crown</hi>
+               </l>
+               <l>
+                  <hi>Which now, (Great Sir) You're going to put on!</hi>
+               </l>
+               <l>
+                  <hi>And may Your Sacred, Glorious <hi>Scepter</hi> ſtand</hi>
+               </l>
+               <l>
+                  <hi>For ever firm, and eaſie in Your Hand!</hi>
+               </l>
+               <l>
+                  <hi>Your Crown too, (Mighty <hi>Queen</hi>) long may You wear,</hi>
+               </l>
+               <l>
+                  <hi>And be as Happy, as You're Good and Foir!</hi>
+               </l>
+               <l>
+                  <hi>And when You'll (late) be pleas'd t'inrich the Skie;</hi>
+               </l>
+               <l>
+                  <hi>May ſome kind Stars exhale me too on high?</hi>
+               </l>
+               <l>
+                  <hi>Where (if the Gods ſo pleaſe) may I reſide</hi>
+               </l>
+               <l>
+                  <hi>Your fix'd, and everlasting <hi>Pyramyde!</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>In the mean while cloſe by Your <hi>Palace</hi> ſide</hi>
+               </l>
+               <l>
+                  <hi>I will with ſoft, and constant numbers, Glide.</hi>
+               </l>
+               <l>
+                  <hi>The common Frowns which Nature bid me wear,</hi>
+               </l>
+               <l>
+                  <hi>Shall at Your awful Preſence diſappear.</hi>
+               </l>
+               <l>
+                  <hi>At that Command, I'll henceforth Ebb and <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>low,</hi>
+               </l>
+               <l>
+                  <hi>And will no <hi>Neptune</hi> (Sir) no <hi>Th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tis</hi> (Madom) own but You.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Speech being finiſht, ſhe reſign'd her care</l>
+               <l>To the now Honour'd Ground of <hi>Westminster;</hi>
+               </l>
+               <l>Where, lo, the Earth is ready to unfold</l>
+               <l>That Pomp the Sea too narrow was to hold.</l>
+               <l>But Cloaths of State o're all the ground being ſpread,</l>
+               <l>This doleful Speech the ſighing <hi>Tellus</hi> made.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What have I done (ye Gods) that I muſt meet</hi>
+               </l>
+               <l>
+                  <hi>This curst Excluſion from my Sov'reigns Feet?</hi>
+               </l>
+               <l>
+                  <hi>Must I ſustain more than half <hi>Europ's</hi> weight,</hi>
+               </l>
+               <l>
+                  <hi>Without the just return of viewing it?</hi>
+               </l>
+               <pb n="6" facs="tcp:65579:4"/>
+               <l> 
+                  <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> wh<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ver did theſe Coverings lay,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpoil the greateſt Wonder of this day,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> my wrong'd Boſom lie,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h all her Summer Treaſury;</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghting on great <hi>CAESAR's</hi> Road</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sweets to ſpread her ſelf abroad.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed, ſhe had been Proud to meet</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from Your Royal Feet.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>—ſhe'd ſomething more to ſay,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Tryumps, bore the ſound away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ous Crouds both far &amp; near were ſeen</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtreets ſeem'd Pav'd, &amp; houſes Tyl'd with Men,</l>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with the Fair Sex, appear'd more bright,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with hard gazing fed their eager ſight,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gh'd &amp; wiſht, &amp; did the reſt in dreams at night</l>
+               </lg>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>dy preſt they did one <hi>Maſs</hi> appear,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen bright <hi>James</hi> &amp; his fair Queen drew near;</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghty <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulk did its own ſelf divide,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made a Golden Wall on either ſide.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which they to the Princes Chamber paſt,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke Repoſe, for Gods themſelves muſt reſt.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> havin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſome ſhort Refection,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Glorious proper Robes of State put on;</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Ably</hi> (now) where Pomp and Tryumph waits,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ld the Royal God-like CANDIDATES?</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> after numerous Ceremonies paſt,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>notion, Oaths,</hi> &amp;c. which ſeveral hours did laſt,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sacred Heads receiv'd the <hi>Imperial Crown,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>CANTERB<g ref="char:V">Ʋ</g>Y's</hi> happy hand ſet on.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an! what bliſs haſt thou receiv'd this hour?</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t couldſt thou wiſh, or could Heav'd give thee</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more?</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:65579:4"/>
+               <l>Th'exact Deſcription of the <hi>Cavalcade,</hi>
+               </l>
+               <l>And the bright Figures e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ry Order made;</l>
+               <l>What hands the Scepter, Sword, Staff, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Or who <hi>Curtana,</hi> or the <hi>Spurs</hi> did bear, </l>
+               <l>Or by what Peers the Crowns ſupported <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>What Favourites next the Preſence did <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Or what bright Youhs bore up the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>How from the <hi>Temple</hi> to the <hi>Hall</hi> They <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>(Where waited for them a Stupendious <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>What <hi>Hecatomb</hi> fell Victory to Their Board,</l>
+               <l>Or what vaſt Seas of Wine it did afford</l>
+               <l>And laſtly, how with the vaſt Infinite <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>They to <hi>White-Hall,</hi> (now Crown'd,) <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Are <hi>Thames,</hi> that would a mighty Volu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Nor is't a <hi>Poets,</hi> but the <hi>Heralds</hi> task<g ref="char:punc">▪</g>
+               </l>
+               <l>Beſides, it would more charge of time require,</l>
+               <l>Then now my niggard Fate is pleas'd <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>But having yet Survey'd the <hi>Court</hi> alone</l>
+               <l>I now would make the Peoples tranſp<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>But I (alaſs) want Language to expreſs my own.</l>
+            </lg>
+            <lg>
+               <l>Ten thouſand <hi>Bells</hi> in one loud Conſort <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Both <hi>Earth</hi> and <hi>Heaven</hi> it ſelf to Ent<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Sure for this Reaſon they were rais'd on <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>That the <hi>Gods</hi> might the better hear <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>The Pleaſant <hi>Muſicks</hi> nimble foot ſteps h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>Paſſing Harmoniouſly from Sphere to Sphere</l>
+               <l>Which now the <hi>Starry Battlements</hi> has ſound,</l>
+               <l>Which <hi>Hark,</hi> reverberates, and multiplies <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>They Mans Officious and Injurious call,</l>
+               <l>Who interpos'd the deſign'd Miracle.</l>
+               <l>For Joy, their uſeleſs Rapes away they'l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> throw</l>
+               <l>And <hi>Muſick</hi> on their own a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cord beſtow.</l>
+               <pb n="8" facs="tcp:65579:5"/>
+               <l> Next, <hi>Loyal Fires</hi> (the <hi>Peoples Offerings</hi>) ſee!</l>
+               <l>Like <hi>Burning Groves</hi> raiſing their Heads on high!</l>
+               <l>As if this night was deſtin'd to devour,</l>
+               <l>What was deſign'd for the next <hi>Winter</hi> Store.</l>
+               <l>See how it Roars, as if 't had an intent</l>
+               <l>To reach the <hi>Stagerytes</hi> Fictitious <hi>Element!</hi>
+               </l>
+               <l>Whilſt on <hi>Thames</hi> too they ſuch vaſt <hi>Fire-works</hi> make,</l>
+               <l>That all her Streams ſeem but one <hi>Flaming Lake.</hi>
+               </l>
+               <l>The Frightned <hi>Gods</hi> thinking their <hi>Skies</hi> on Fire,</l>
+               <l>For ſafety to the fartheſt <hi>Heav'ns</hi> retire:</l>
+               <l>They fear'd another Race of <hi>Gyants</hi> roſe,</l>
+               <l>Who now had <hi>Fire</hi> inſtead of <hi>Mountains</hi> choſe,</l>
+               <lg>
+                  <l>But when Diſcreeter <hi>Gods</hi> ſaw the intent,</l>
+                  <l>Inſtead of <hi>Thunder</hi> and <hi>Revenge,</hi> they ſent</l>
+                  <l>A <hi>Herald</hi> to proclaim this <hi>Complement.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Bleſt Change!</hi> And now the <hi>Heav'nly Powers</hi> rejoyce</l>
+               <l>That <hi>England</hi> does approve of their Wiſe Choice:</l>
+               <l>And to its <hi>Throne,</hi> wrong'd <hi>Loyalty</hi> reſtore,</l>
+               <l>Where <hi>Treaſon</hi> ſtretch'd its ugly Limbs before.</l>
+               <l>Being <hi>Loyal</hi> grown, Your Bliſs is now compleat,</l>
+               <l>For You before all Bleſſings had but <hi>That;</hi>
+               </l>
+               <l>This day you've <hi>Crown'd a King,</hi> whoſe <hi>God-like Reign</hi>
+               </l>
+               <l>Reſtores you the Bleſt <hi>Golden Age</hi> again.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Nathan. Thompſon</hi> at the Entrance into <hi>Old Spring-garden</hi> near <hi>Charing-croſs,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
